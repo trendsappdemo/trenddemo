@@ -1,13 +1,13 @@
 {
   "main.css": "/trenddemo/static/css/main.eed5bc3f.chunk.css",
-  "main.js": "/trenddemo/static/js/main.47482434.chunk.js",
-  "main.js.map": "/trenddemo/static/js/main.47482434.chunk.js.map",
+  "main.js": "/trenddemo/static/js/main.40a356d0.chunk.js",
+  "main.js.map": "/trenddemo/static/js/main.40a356d0.chunk.js.map",
   "runtime~main.js": "/trenddemo/static/js/runtime~main.70cb6c8b.js",
   "runtime~main.js.map": "/trenddemo/static/js/runtime~main.70cb6c8b.js.map",
   "static/js/2.2c54f472.chunk.js": "/trenddemo/static/js/2.2c54f472.chunk.js",
   "static/js/2.2c54f472.chunk.js.map": "/trenddemo/static/js/2.2c54f472.chunk.js.map",
   "index.html": "/trenddemo/index.html",
-  "precache-manifest.344c09c4c061e8b2cb45cdc6c90cded7.js": "/trenddemo/precache-manifest.344c09c4c061e8b2cb45cdc6c90cded7.js",
+  "precache-manifest.e8e20d51744c4385a6cda73f21b754bd.js": "/trenddemo/precache-manifest.e8e20d51744c4385a6cda73f21b754bd.js",
   "service-worker.js": "/trenddemo/service-worker.js",
   "static/css/main.eed5bc3f.chunk.css.map": "/trenddemo/static/css/main.eed5bc3f.chunk.css.map"
 }
