@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d02043c8a316cd572414",
-    "url": "/trenddemo/static/css/main.a051b8b0.chunk.css"
+    "revision": "3449e712347b0d139b79",
+    "url": "/trenddemo/static/css/main.b89b6342.chunk.css"
   },
   {
-    "revision": "d02043c8a316cd572414",
+    "revision": "3449e712347b0d139b79",
     "url": "/trenddemo/static/js/main.44ba9777.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/trenddemo/static/media/vod-logo.e4842b8b.png"
   },
   {
-    "revision": "0cbc24f32a7991f54286999bd4d00f21",
+    "revision": "95ce19cc2835dc564534613394044cbf",
     "url": "/trenddemo/index.html"
   }
 ];
