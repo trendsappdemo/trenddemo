@@ -1,13 +1,14 @@
 {
-  "main.css": "/trenddemo/static/css/main.eed5bc3f.chunk.css",
-  "main.js": "/trenddemo/static/js/main.40a356d0.chunk.js",
-  "main.js.map": "/trenddemo/static/js/main.40a356d0.chunk.js.map",
+  "main.css": "/trenddemo/static/css/main.a051b8b0.chunk.css",
+  "main.js": "/trenddemo/static/js/main.44ba9777.chunk.js",
+  "main.js.map": "/trenddemo/static/js/main.44ba9777.chunk.js.map",
   "runtime~main.js": "/trenddemo/static/js/runtime~main.70cb6c8b.js",
   "runtime~main.js.map": "/trenddemo/static/js/runtime~main.70cb6c8b.js.map",
-  "static/js/2.2c54f472.chunk.js": "/trenddemo/static/js/2.2c54f472.chunk.js",
-  "static/js/2.2c54f472.chunk.js.map": "/trenddemo/static/js/2.2c54f472.chunk.js.map",
+  "static/js/2.07aef53e.chunk.js": "/trenddemo/static/js/2.07aef53e.chunk.js",
+  "static/js/2.07aef53e.chunk.js.map": "/trenddemo/static/js/2.07aef53e.chunk.js.map",
   "index.html": "/trenddemo/index.html",
-  "precache-manifest.e8e20d51744c4385a6cda73f21b754bd.js": "/trenddemo/precache-manifest.e8e20d51744c4385a6cda73f21b754bd.js",
+  "precache-manifest.bc079e0bc2c545d7b326d39ebe0813ed.js": "/trenddemo/precache-manifest.bc079e0bc2c545d7b326d39ebe0813ed.js",
   "service-worker.js": "/trenddemo/service-worker.js",
-  "static/css/main.eed5bc3f.chunk.css.map": "/trenddemo/static/css/main.eed5bc3f.chunk.css.map"
+  "static/css/main.a051b8b0.chunk.css.map": "/trenddemo/static/css/main.a051b8b0.chunk.css.map",
+  "static/media/vod-logo.png": "/trenddemo/static/media/vod-logo.e4842b8b.png"
 }
