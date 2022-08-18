@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "21f6984dfee80ea19ea3",
+    "revision": "f64b79a05ce845e9db19",
     "url": "/trenddemo/static/css/main.b89b6342.chunk.css"
   },
   {
-    "revision": "21f6984dfee80ea19ea3",
-    "url": "/trenddemo/static/js/main.4d6d1c99.chunk.js"
+    "revision": "f64b79a05ce845e9db19",
+    "url": "/trenddemo/static/js/main.532663b2.chunk.js"
   },
   {
     "revision": "7564e23ce0a6e5544783",
     "url": "/trenddemo/static/js/runtime~main.70cb6c8b.js"
   },
   {
-    "revision": "87215b062a549f065d8f",
-    "url": "/trenddemo/static/js/2.692c96cd.chunk.js"
+    "revision": "1a614bdacd1ff803dd1f",
+    "url": "/trenddemo/static/js/2.b82d02ca.chunk.js"
   },
   {
     "revision": "e4842b8b9e9eccf9f220df77b08752d9",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/trenddemo/static/media/bg.d2aa5b91.jpg"
   },
   {
-    "revision": "348c90e0e4e97bb0bda91f16c92b9c20",
+    "revision": "991559392eedaab94a3dd0d894a2e67f",
     "url": "/trenddemo/index.html"
   }
 ];
